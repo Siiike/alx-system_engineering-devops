@@ -1,1 +1,1 @@
-a script that copies all the HTML files from the current working directory to the parent of the working directory
+a command that lists all the files and directories of the current directory, separated by commas (,)
