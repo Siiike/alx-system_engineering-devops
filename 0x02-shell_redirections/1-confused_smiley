@@ -1,1 +1,2 @@
-a script that displays a confused smiley 
+#!/bin/bash
+echo "\"(Ôo)'"
